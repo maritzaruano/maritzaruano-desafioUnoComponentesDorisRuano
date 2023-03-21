@@ -1,0 +1,7 @@
+header{
+    background-color: #CCB7F9;
+    height: var(--header-height);
+}
+.btn-search{
+    border-color: #7431f9;
+}

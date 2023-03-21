@@ -1,0 +1,6 @@
+section{
+    background-color: #EEEEEE;
+    height: calc(100vh - var(--header-height));
+    padding: 20px;
+    margin-left: var(--aside-width);
+}

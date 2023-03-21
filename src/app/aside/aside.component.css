@@ -1,0 +1,23 @@
+aside{
+    background-color:#D6CFE2;
+    width: var(--aside-width);
+    height: calc(100vh - var(--header-height));
+    position: fixed;
+}
+.list-group list-group-flush{
+    background-color: #CCB7F9;
+}
+
+nav{
+    height: 100vh;
+    display: flex;   
+    justify-content: center;    
+    margin-left: 70px;
+    margin-top: 40px;  
+
+}
+a {
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}
